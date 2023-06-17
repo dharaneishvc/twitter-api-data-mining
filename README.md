@@ -5,7 +5,8 @@ Twitter is a microblogging platform where millions of users share their opinions
 
 ## Problem Statement
 The goal of this project is to analyze Twitter data to identify sentiment, recommend users to follow, find frequent item sets, identify influential users, filter data streams, detect communities, and identify popular topics. These insights can be used for various applications, such as marketing, brand management, opinion mining, and trend analysis.
-Sub-Problems
+
+### Sub-Problems
 * Sentiment Analysis: Collect a large dataset of tweets and then perform sentiment analysis on the text using TF-IDF. This can help you identify the most commonly used words or phrases that people use when expressing positive or negative sentiment about a particular topic or brand.
 * Recommendation System: Create a recommendation system that suggests Twitter users to follow based on their interests and the interests of other users they follow. This can be done using clustering algorithms to group similar users together and then recommending new users to follow based on those clusters.
 * Trend Analysis: Use the Twitter API to collect a dataset of hashtags and then use the Apriori algorithm to identify frequent item sets of hashtags that are often used together. This can help identify Trends in tweets and marketing strategy. 
